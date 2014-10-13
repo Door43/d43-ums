@@ -10,6 +10,10 @@
 
   * [[ums:obs|Open Bible Stories (ums)]]
 
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ums|d43-ums repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ums/archive/master.zip|d43-ums.zip]]
+
 **Recent Changes**
 {{changes>ns = ums}}
 
